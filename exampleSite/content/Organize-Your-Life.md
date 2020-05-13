@@ -3,7 +3,7 @@ title: 151 days left!
 date: 2020-05-10T16:00:00+00:00
 description: This is meta description
 type: featured
-image: "/images/masonary-post/post-6.jpg"
+image: "/images/featured-post/post-1.jpg"
 categories:
 - Valuable Idea
 tags:
