@@ -16,15 +16,15 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+author = "Brandy6.0"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "我是王静雯，来自哈尔滨工业大学（威海）的小可爱~"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
 email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
-home = "Home"
+home = "主页"
 layout = "1"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
@@ -63,14 +63,8 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
-icon = "ti-linkedin"
+URL = "1342401926"
+icon = "ti-qq"
 [[params.social]]
 URL = "#"
 icon = "ti-github"
