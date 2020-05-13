@@ -1,15 +1,11 @@
 +++
-categories = ["Valuable Idea"]
-date = 2019-05-14T08:46:10Z
-description = "This is meta description"
-image = "/images/masonary-post/post-9.jpg"
-tags = ["Photos", "romance"]
-title = "150 days left!!"
+categories = ["Clothes"]
+date = 2020-04-30T16:00:00Z
+description = "自拍！"
+image = "/images/IMG_0293(20200512-222813).JPG"
+tags = ["Photos", "Clothes"]
+title = "不知道该取什么名字"
 type = "featured"
 
 +++
-Hey It's me! 151 days left!
-
-> 为了npy，什么事情都能做得出来。。。
-
-![](/images/IMG_0294(20200512-222815).JPG)
+只是想发一个自拍嘿嘿
