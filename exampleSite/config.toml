@@ -1,16 +1,16 @@
 baseURL = "https://brandywjw.cn"
-languageCode = "en-us"
+languageCode = "zh"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "brandy6.0"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "关于我"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "联系方式"
 weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
