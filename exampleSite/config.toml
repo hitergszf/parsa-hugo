@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = "哈尔滨工业大学威海"
 author = "Brandy6.0"
-author_image = "images/banner-img.png"
+author_image = "images/brandy.jpg"
 bio = "我是王静雯，来自哈尔滨工业大学（威海）的小可爱~"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by my boyfriend"
