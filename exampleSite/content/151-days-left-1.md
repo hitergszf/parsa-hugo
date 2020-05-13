@@ -1,15 +1,17 @@
 +++
-categories = ["Valuable Idea"]
+categories = ["旅行", "好点子！"]
 date = 2019-05-14T08:46:10Z
-description = "This is meta description"
-image = "/images/masonary-post/post-6.jpg"
-tags = ["Photos", "birthday"]
+description = "旅行的意义"
+image = "/images/featured-post/post-5.jpg"
+tags = ["Photos", "travel"]
 title = "151 days left!!!"
 type = "featured"
 
 +++
-Hey It's me! 151 days left!
+有一点想去西安。。。
 
-> 为了npy，什么事情都能做得出来。。。
+可是某人不让。。。
 
-![](/images/IMG_0294(20200512-222815).JPG)
+该死的疫情
+
+还我对象！
