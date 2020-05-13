@@ -63,8 +63,5 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "1342401926"
-icon = "ti-qq"
-[[params.social]]
-URL = "#"
-icon = "ti-github"
+URL = "baidu.com"
+icon = "qq"
