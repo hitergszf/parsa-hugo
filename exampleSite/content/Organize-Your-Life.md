@@ -1,6 +1,6 @@
 ---
 title: 151 days left!
-date: 2019-05-14T08:46:10+00:00
+date: 2020-05-10T16:00:00+00:00
 description: This is meta description
 type: featured
 image: "/images/masonary-post/post-6.jpg"
@@ -14,5 +14,9 @@ tags:
 Hey It's me! 151 days left!
 
 > 为了npy，什么事情都能做得出来。。。
+>
+> 这是谁说的？
+>
+> 想知道给我点赞！！！
 
 ![](/images/IMG_0294(20200512-222815).JPG)
