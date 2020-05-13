@@ -3,7 +3,7 @@ title: 好想你！
 date: 2019-05-14T08:46:10+00:00
 description: 好想你哦
 type: post
-image: "/images/featured-post/post-3.jpg"
+image: "/images/featured-post/post-2.jpg"
 categories:
 - Romance
 tags:
