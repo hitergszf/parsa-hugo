@@ -2,7 +2,7 @@
 categories = ["Valuable Idea"]
 date = 2020-05-09T16:00:00Z
 description = "This is meta description"
-image = "/images/1572009567452.jpeg"
+image = "/images/featured-post/post-3.jpg"
 tags = ["Photos", "birthday"]
 title = "单纯放几张我男友的丑照"
 type = "featured"
