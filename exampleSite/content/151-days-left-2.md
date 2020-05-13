@@ -1,15 +1,19 @@
 +++
 categories = ["Valuable Idea"]
-date = 2019-05-14T08:46:10Z
+date = 2020-05-09T16:00:00Z
 description = "This is meta description"
-image = "/images/masonary-post/post-6.jpg"
+image = "/images/1572009567452.jpeg"
 tags = ["Photos", "birthday"]
-title = "151 days left!!!"
+title = "单纯放几张我男友的丑照"
 type = "featured"
 
 +++
-Hey It's me! 151 days left!
+放图放图。
 
-> 为了npy，什么事情都能做得出来。。。
+没想到他的头发烫成这样。。。
 
-![](/images/IMG_0294(20200512-222815).JPG)
+工数大讲堂（那个时候还不认识他 嘿嘿）
+
+![](/images/_MG_0508.JPG)
+
+一脸严肃。好像是在日本。。。![](/images/wsb.JPG)
